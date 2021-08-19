@@ -1,4 +1,4 @@
-import { createServer, Model, Factory } from 'miragejs'
+import { createServer, Model, Factory, Response } from 'miragejs'
 import faker from 'faker'
 
 type User = {
@@ -47,9 +47,9 @@ export function makeServer(){
                     .users.slice(pageStart, pageEnd)
 
                 return new Response(
-                    // 200,
-                    // { 'x-total-count': String(total) },
-                    // {users}
+                    200,
+                    { 'x-total-count': String(total) },
+                    {users}
                 )
             })
 
