@@ -6,6 +6,7 @@ import { theme } from '../styles/theme'
 import { QueryClient, QueryClientProvider } from 'react-query'
 import { SidebarDrawerProvider } from '../contexts/SidebarDrawerContext'
 import { makeServer } from '../services/mirage'
+import { queryClient } from '../services/queryClient'
 
 
 if(process.env.NODE_ENV === 'development'){
@@ -13,7 +14,7 @@ if(process.env.NODE_ENV === 'development'){
 }
 
 
-const queryClient = new QueryClient()
+
 
 function MyApp({ Component, pageProps }: AppProps) {
   return(
