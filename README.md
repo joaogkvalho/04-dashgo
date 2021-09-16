@@ -29,36 +29,36 @@
 * Clicking on the button "Criar novo" you can see a form with form validation that</br>
   you can create a new user.
   
-  ## Technologies used
+## Technologies used
   
-  <table>
-    <tr>
-      <td>React</td>
-      <td>TypeScript</td>
-      <td>NextJs</td>
-      <td>ChakraUI</td>
-      <td>React Hook Form</td>
-      <td>ApexCharts</td>
-      <td>Axios</td>
-      <td>Yup</td>
-    </tr>
+<table>
+  <tr>
+    <td>React</td>
+    <td>TypeScript</td>
+    <td>NextJs</td>
+    <td>ChakraUI</td>
+    <td>React Hook Form</td>
+    <td>ApexCharts</td>
+    <td>Axios</td>
+    <td>Yup</td>
+  </tr>
 
-    <tr>
-      <td>17.0.2</td>
-      <td>4.1.2</td>
-      <td>11.0.1</td>
-      <td>1.6.5</td>
-      <td>7.12.2</td>
-      <td>3.27.3</td>
-      <td>0.21.1</td>
-      <td>0.32.9</td>
-    </tr>
-  </table>
+  <tr>
+    <td>17.0.2</td>
+    <td>4.1.2</td>
+    <td>11.0.1</td>
+    <td>1.6.5</td>
+    <td>7.12.2</td>
+    <td>3.27.3</td>
+    <td>0.21.1</td>
+    <td>0.32.9</td>
+  </tr>
+</table>
   
-  ## How to run this project
-  
-  1)
-  2)
-  3)
-  4)
-  5)
+## How to run this project
+
+1) Clone the repositorie from my Github.
+2) Enter in the project folder on your code editor.
+3) Run the command "yarn" to install all the dependencies used in the project.
+4) Run the command "yarn dev" to run the project on your computer.
+5) Enter in the project URL to see the application.
