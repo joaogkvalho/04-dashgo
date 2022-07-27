@@ -18,6 +18,13 @@
   <li>Styles with ChakraUI</li>
   <li>Graphics with apex-charts</li>
 </ul>
+
+## On this project you can see
+
+* A login page with form validation using Yup and react-hook-form
+* A dashboard page with graphics using apex-charts
+* In the users page a list of users with functional pagination
+* A form to create a new user with form validation
   
 ## Technologies used
   
@@ -52,7 +59,3 @@
 3) Run the command "yarn" to install all the dependencies used in the project.
 4) Run the command "yarn dev" to run the project on your computer.
 5) Enter in the project URL to see the application.
-
-## If you wanna test the project, here is the link
-
-<a href="https://dashgo-gamma.vercel.app/dashboard">Test the project</a>
