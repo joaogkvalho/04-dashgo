@@ -18,16 +18,6 @@
   <li>Styles with ChakraUI</li>
   <li>Graphics with apex-charts</li>
 </ul>
-
-## On this project you can see
-
-* A login page that is create using react hook form, but is not functional.
-* The dashboard with some decorative elements like the search input and the</br>
-  user informations.
-* Some graphics created with apex-charts showing some users data informations.
-* The users area showing a users list with functional pagination.
-* Clicking on the button "Criar novo" you can see a form with form validation that</br>
-  you can create a new user.
   
 ## Technologies used
   
