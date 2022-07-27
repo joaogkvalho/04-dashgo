@@ -62,3 +62,7 @@
 3) Run the command "yarn" to install all the dependencies used in the project.
 4) Run the command "yarn dev" to run the project on your computer.
 5) Enter in the project URL to see the application.
+
+## If you wanna test the project, here is the link
+
+<a href="https://dashgo-gamma.vercel.app/dashboard">Test the project</a>
