@@ -1,61 +1,60 @@
-![dashgo](https://user-images.githubusercontent.com/50122135/133622488-8d4d7cf9-617f-4ea3-86d7-167349903469.png)
+<h1 align="center"> Dashgo </h1>
 
-> Status: Finished ✔️
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-### Dashgo is a very simple dashboard with all the basic functionalities created with React and ChakraUI
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Some features used on this project
+<br>
 
-<ul>
-  <li>React Hooks</li>
-  <ul>
-    <li>UseState</li>
-    <li>UseEffect</li>
-  </ul>
-  <li>Creation of ower own hook UseUsers</li>
-  <li>Fictitious data generation with mirageJS</li>
-  <li>Form authentication with Yup and React Hooks Forms</li>
-  <li>Styles with ChakraUI</li>
-  <li>Graphics with apex-charts</li>
-</ul>
+<p align="center">
+  <img alt="projeto do curso discover" src=".github/preview.png" width="100%">
+</p>
 
-## On this project you can see
+## 🚀 Tecnologias
 
-* A login page with form validation using Yup and react-hook-form
-* A dashboard page with graphics using apex-charts
-* In the users page a list of users with functional pagination
-* A form to create a new user with form validation
-  
-## Technologies used
-  
-<table>
-  <tr>
-    <td>React</td>
-    <td>TypeScript</td>
-    <td>NextJs</td>
-    <td>ChakraUI</td>
-    <td>React Hook Form</td>
-    <td>ApexCharts</td>
-    <td>Axios</td>
-    <td>Yup</td>
-  </tr>
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-  <tr>
-    <td>17.0.2</td>
-    <td>4.1.2</td>
-    <td>11.0.1</td>
-    <td>1.6.5</td>
-    <td>7.12.2</td>
-    <td>3.27.3</td>
-    <td>0.21.1</td>
-    <td>0.32.9</td>
-  </tr>
-</table>
-  
-## How to run this project
+- React
+- TypeScript
+- NextJS
+- ChakraUI
+- React Hook Form
+- ApexCharts
+- Axios
+- Yup
 
-1) Clone the repositorie from my Github.
-2) Enter in the project folder on your code editor.
-3) Run the command "yarn" to install all the dependencies used in the project.
-4) Run the command "yarn dev" to run the project on your computer.
-5) Enter in the project URL to see the application.
+## 🔥 Algumas features neste projeto
+
+- React Hooks
+- UseState
+- UseEffect
+- Criação de um hook personalizado UseUsers
+- Criação de dados fictícios com a lib mirageJS
+- Autenticação de formulário com yup e React Hook Form
+- Estilização com ChakraUI
+- Gráficos com a biblioteca apex-charts
+
+## ✨ Neste projeto você pode ver
+
+- Uma página de login com validação de formulário utilizando yup e react-hook-form.
+- Uma página de dashboard com gráficos criados com a biblioteca apex-charts.
+- Na página de usuários uma lista de usuários com paginação funcional.
+- Um formulário para criação de novos usuários com validação de formulário.
+
+## 💻 Projeto
+
+- Dashgo é um dashboard simples com todas funcionalidades básicas criado com React e ChakraUI.
+
+## ✅ Esse projeto foi criado ao longo do curso Ignite ReactJS da plataforma Rocketseat
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT.
+
+---
